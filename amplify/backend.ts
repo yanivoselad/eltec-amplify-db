@@ -4,6 +4,5 @@ import { data } from './data/resource';
 
 
 export const backend = defineBackend({
-  auth,
   data,
 });
